@@ -1,0 +1,36 @@
+
+
+java:S1319s"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(£œ¤¹8³ƒ§ã1
+Œ
+java:S1319|"jThe type of "probabilities" should be an interface such as "Map" rather than the implementation "HashMap".(ıµÈùÿÿÿÿ8³ƒ§ã1
+‚
+java:S1319•"eThe type of "route" should be an interface such as "List" rather than the implementation "ArrayList".(±ò³^8³ƒ§ã1
+ˆ
+java:S1319¡"eThe type of "route" should be an interface such as "List" rather than the implementation "ArrayList".(ü—ûøÿÿÿÿ8ŒÁ¼áã1
+E
+java:S5411"(Use a primitive boolean expression here.(š•ê 8³ƒ§ã1
+E
+java:S54113"(Use a primitive boolean expression here.(Àšã¦8³ƒ§ã1
+F
+java:S5411Î"(Use a primitive boolean expression here.(­èú›8³ƒ§ã1
+I
+java:S1125"'Remove the unnecessary boolean literal.(ºÌ—Çşÿÿÿÿ8Ç¶ƒ§ã1
+L	java:S106"+Replace this use of System.out by a logger.(¼Ì¤ìøÿÿÿÿ8È¶ƒ§ã1
+D
+java:S1125"'Remove the unnecessary boolean literal.(Ãò‚ó8È¶ƒ§ã1
+D
+java:S11253"'Remove the unnecessary boolean literal.(Àšã¦8Ê¶ƒ§ã1
+D
+java:S1125G"'Remove the unnecessary boolean literal.(´Åö×8Ğ¶ƒ§ã1
+C
+java:S1125L"'Remove the unnecessary boolean literal.(ü­c8Ñ¶ƒ§ã1
+L	java:S106V"+Replace this use of System.err by a logger.(³Ù¹şúÿÿÿÿ8Ò¶ƒ§ã1
+A
+java:S2119…"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8Ü¶ƒ§ã1
+p	java:S100¡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü—ûøÿÿÿÿ8ıË¼áã1
+M	java:S106¼"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8…Ì¼áã1
+J
+java:S1125É"'Remove the unnecessary boolean literal.(ºÌ—Çşÿÿÿÿ8ß¶ƒ§ã1
+E
+java:S1125Î"'Remove the unnecessary boolean literal.(­èú›8à¶ƒ§ã1
+M	java:S106İ"+Replace this use of System.out by a logger.(êŞ¶ªüÿÿÿÿ8Ì¼áã1
