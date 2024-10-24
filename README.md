@@ -2,7 +2,7 @@
 # Overview
 This project implements the Ant Colony Optimization (ACO) algorithm in Java. ACO is a probabilistic technique for solving computational problems which can be reduced to finding good paths through graphs. Inspired by the behavior of ants searching for food, this algorithm is used to find optimal solutions to various problems, such as the Traveling Salesman Problem (TSP).
 
-#Features
+# Features
 - Implementation of the Ant Colony Optimization algorithm.
 - Configurable parameters for pheromone evaporation rate, number of ants, and iteration count.
 - Implementation of the Neirest Neighbour algorithm to comapare with ACO.
